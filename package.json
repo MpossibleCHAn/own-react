@@ -1,0 +1,13 @@
+{
+  "name": "own-react",
+  "version": "1.0.0",
+  "description": "build my own react ",
+  "main": "index.js",
+  "repository": "https://github.com/MpossibleCHAn/own-react.git",
+  "author": "ocean chan",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
